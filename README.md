@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harishma M</h1>
 <h3 align="center">I'm a second year BTech Information Technology student at NPR College of Engineering and Technology. A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me: [`@Harishma-M`][https://github.com/Harishma-M](https://github.com/)</h3>
+<h3 align="left">Connect with me:[`@Harishma-M`](https://github.com/Harishma-M)</h3>
 <p align="left">
 </p>
 
